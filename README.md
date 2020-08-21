@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning ... Data Science & React
-- ⚡ Fun fact: ... Running! :running:
+- ⚡ Fun fact: ... I love anime! :running:
 
 ## My GitHub
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hirochon&show_icons=true&theme=gruvbox)
