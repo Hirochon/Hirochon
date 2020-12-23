@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ... Data Science & React!
+- 🌱 I’m currently learning ... Data Science & React & Go & GraphQL!
 - ⚡ Fun fact: ... I love most Japanes anime :running:
 
 ## Hirochi's GitHub
