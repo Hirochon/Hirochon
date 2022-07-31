@@ -4,7 +4,8 @@
 - ⚡ Fun fact: ... I love most Japanes anime :running:
 
 ## Hirochi's GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=hirochon&theme=chalk)](https://github.com/hirochon/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hirochon&theme=chalk&column=7)](https://github.com/hirochon/github-profile-trophy)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hirochon&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirochon&layout=compact&hide=jupyter%20notebook&theme=gruvbox&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
