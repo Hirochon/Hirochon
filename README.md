@@ -4,7 +4,7 @@
 - ⚡ Fun fact: ... I love most Japanes anime :running:
 
 ## Hirochi's GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=hirochon&theme=chalk&column=7)](https://github.com/hirochon/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=hirochon&theme=chalk&column=7)
 
 <div>
   <img alt="GitHub Stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=Hirochon&show_icons=true&theme=gruvbox">
