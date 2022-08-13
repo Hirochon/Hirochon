@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ... Data Science & React & Go & GraphQL!
-- ⚡ Fun fact: ... I love most Japanes anime :running:
+- 🌱 I’m currently learning ... DDD & Go & Architecture & (Data Science & React)！
+- ⚡ Fun fact ... I love most Japanes anime :running:
 
 ## Hirochi's GitHub
 ![trophy](https://github-profile-trophy.vercel.app/?username=hirochon&theme=chalk&column=7)
