@@ -3,14 +3,6 @@
 - 🌱 I’m currently learning ... DDD & Go & Architecture & (Data Science & React)！
 - ⚡ Fun fact ... Japan Anime :running:
 
-## Hirochi's GitHub
-![trophy](https://github-profile-trophy.vercel.app/?username=hirochon&theme=chalk&column=7)
-
-<div>
-  <img alt="GitHub Stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=Hirochon&show_icons=true&theme=gruvbox">
-  <img alt="Top Langs" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirochon&layout=compact&hide=jupyter%20notebook&theme=gruvbox&langs_count=10">
-</div>
-
 ## Hirochi's Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Hirochon/posts.svg)](http://qiita.com/Hirochon)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Hirochon/contributions.svg)](http://qiita.com/Hirochon)
